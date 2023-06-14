@@ -16,3 +16,4 @@ Candidate Evaluation: The system provides tools for recruiters to evaluate candi
 
 Selection and Offer: Recruiters can select the most suitable candidates for job offers and extend them to the chosen individuals. The system facilitates tracking of offer acceptance and rejection.
 
+index.php
